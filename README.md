@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Typescript React App: Github Repoes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Hosting
+
+The application is hosted using AWS resource S3, can be accessed using on this link:
+http://github-repoes-atask.s3-website.ap-southeast-3.amazonaws.com/
 
 ## Available Scripts
 
